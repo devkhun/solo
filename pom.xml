@@ -36,6 +36,13 @@
             <artifactId>kafka-clients</artifactId>
             <version>3.8.0</version>
         </dependency>
+
+        <!-- CSV 파싱 -->
+        <dependency>
+            <groupId>com.opencsv</groupId>
+            <artifactId>opencsv</artifactId>
+            <version>5.9</version>
+        </dependency>
     </dependencies>
 
     <repositories>
